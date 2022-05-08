@@ -1,8 +1,16 @@
 # Theory-of-Algorithms-assessment
 
 ## Contents
-  composetest - 
-  docker file with instructions on how to build file composetest/dir/requirements.txt
+  
+  
+  composetest -
+  <ol>
+  <li>docker-compose.yml 
+  <li> .ipynb_checkpoints - Backups of older files
+  <li> Countdown-Numbers-Game .ipynb -
+  <li> Post-Correspondence-Problem.ipynb
+  <li> A dir file, docker file with instructions on how to build file
+  </ol>
 ### How to run
 In the composetest directory execute docker-compose build to ensure the docker image is rebuilt followed by docker-compose up re builds if requires and starts the docker image.
 once start if provides a link with a token e.g. http://127.0.0.1:8888/lab?token=39b63edfa45d628aad8713d0f04ddcee72de616601329eaf
