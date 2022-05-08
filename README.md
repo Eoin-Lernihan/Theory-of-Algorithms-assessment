@@ -18,5 +18,5 @@ At the top of the notebook contains the overview of the post correspondence prob
 A Python function that solves the bounded Post Correspondence Problem called boundPCPSolve that get all the possible paths, go thourgh each paths it solve it? if not start again.
 
 ### Countdown Numbers Game
- 
+ Overview, explanation and discussion of the complexity of the Countdown Numbers Game. 2 python function, first creating the a random set of numbers and goal used for the countdown game and a second one to run through 
 ## Overall Refernces 
